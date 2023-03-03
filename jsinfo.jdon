@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Derelya",
+            "email": "po000608@g.bstu.by"
+        },
+        {
+            "id": "2",
+            "name": "Roman",
+            "email": "po000603@g.bstu.by"
+        },
+        {
+            "id": "3",
+            "name": "Antonio",
+            "email": "po000617@g.bstu.by"
+        }
+    ]
+}
